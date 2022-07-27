@@ -31,4 +31,4 @@ Array0x: Discord - Enderman#2022 | Twitter: @enderman_dev
 # Open Beta
 | Build                  	 | Date          	 | Engine Version	    |		    Main Key             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| V0.1        	 |  July 26, 2022	   	 | UE4.26	    |		https://rebrand.ly/93fqhg5                                   |
+| V0.1        	 |  July 26, 2022	   	 | UE4.26	    |		0x419DFFC484F1CED86842DD4E6DD914F02E3E119725F556C4B9AA44432021A9AC                                   |
