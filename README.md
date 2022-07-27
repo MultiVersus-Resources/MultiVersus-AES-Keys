@@ -8,7 +8,7 @@ Me: Discord - bren#2001 | Twitter: @brenv2<br />
 # MultiVersus Version Archive
 | Link |
 |------|
-| github.com/bren2409/MultiVersus-Archive/ |
+| https://github.com/bren2409/MultiVersus-Archive/ |
 
 # AES Keys Missing 
 
