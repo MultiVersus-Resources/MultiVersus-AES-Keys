@@ -1,10 +1,9 @@
 # MultiVersus-AES-Keys
 
-This is a Archive started by Me and Array0x (Enderman#2022) started on 7/27/2022<br />
-If you have any AES Keys that are missing from this archive is missing please contact us
+This is a Archive started by Me on started on 7/27/2022<br />
+If you have any AES Keys that are missing from this archive is missing please contact me
 
-Bren: Discord - bren#2001 | Twitter: @brenv2<br />
-Array0x: Discord - Enderman#2022 | Twitter: @enderman_dev
+Me: Discord - bren#2001 | Twitter: @brenv2<br />
 
 # AES Keys Missing 
 
