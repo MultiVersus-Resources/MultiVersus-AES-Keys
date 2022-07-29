@@ -17,8 +17,8 @@ Me: Discord - bren#2001 | Twitter: @brenv2<br />
 
 # Test Build AES Keys
 
-| Test Build 1 | December 9 - 10, 2021 |
-|---------------|---------------|
+| Test Build 1 - December 9 - 10, 2021 |
+|-------------------------------|
 | 0x5D1214485CA8BCB817E42DDCE1107347590117DD5CD6704227889B99BCE5D206 |
 
 
